@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Search{
+  
+  width: 700px;
+  border-radius: 10px;
+  /* margin: 0 auto; */
+}

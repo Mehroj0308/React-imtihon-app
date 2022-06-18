@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Left_container{
+  margin-left: 80px;
+}
+
+.kbhj {
+  margin-left: 34%;
+  height: 700px;
+}
